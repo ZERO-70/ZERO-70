@@ -69,11 +69,11 @@ FastAPI-based AI automation system: scrapes Instagram profiles → detects faces
 | Category | Technologies |
 |---|---|
 | **Languages** | Python · JavaScript · Java · C++ |
-| **Frameworks & Libraries** | Spring Boot · FastAPI · Express · PyTorch · LangChain · scikit-learn · Hugging Face |
+| **Frameworks & Libraries** | Spring Boot · FastAPI · PyTorch · scikit-learn · Hugging Face |
 | **AI / ML** | AI Automation · AI Agents · Prompt Engineering · RAG · ML · Deep Learning · NLP · LLM Fine-tuning · Agentic Systems · Edge AI (ONNX) |
 | **Databases** | MySQL · Microsoft SQL · MongoDB · Pinecone · ChromaDB · FAISS |
 | **Platforms & Tools** | AWS · Azure · Heroku · Docker · Postman · Git & GitHub |
-| **Other** | REST APIs · API Integration · Process Automation · Vector Databases · React · Node.js · Socket Programming |
+| **Other** | REST APIs · API Integration · Process Automation · Vector Databases · React · Node.js · . Express . Socket Programming |
 
 ---
 
