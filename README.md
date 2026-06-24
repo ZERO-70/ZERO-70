@@ -2,7 +2,7 @@
 
 # Muhammad Zair
 
-**AI Automation · Agentic AI Systems · Backend Development**
+**AI/ML · AI Systems · Backend Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhammadzair-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mhammadzair)
 [![Email](https://img.shields.io/badge/Email-mhammadzair@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mhammadzair@gmail.com)
