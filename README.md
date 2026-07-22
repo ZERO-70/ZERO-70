@@ -12,7 +12,7 @@
 
 ---
 
-Computer Science student at **Information Technology University (ITU)**, Lahore — CGPA 3.59/4.00. I build AI agents, RAG pipelines, and backend systems, with a focus on applying automation to real-world business problems. Experienced with Python, Java, and C++, and comfortable taking projects from local development to cloud deployment.
+Computer Science student at **Information Technology University (ITU)**, Lahore. I build AI agents, RAG pipelines, and backend systems, with a focus on applying automation to real-world business problems. Experienced with Python, Java, and C++, and comfortable taking projects from local development to cloud deployment.
 
 ---
 
