@@ -20,6 +20,11 @@ CS student at **Information Technology University (ITU), Lahore**, focused on ap
 
 ## 🚀 Projects
 
+### [Hybrid Movie Recommendation Engine](https://github.com/ZERO-70/Movie-Recommender) · [Live Demo](https://huggingface.co/spaces/zerOdash/movie-recommender)
+Combines three recommendation strategies in one app — collaborative filtering for known users, a two-tower neural network for cold-start users, and TF-IDF similarity for item-to-item lookups. Trained end-to-end on MovieLens 1M and deployed on HF Spaces.
+
+`PyTorch` `scikit-learn` `Gradio` `Two-Tower Networks`
+
 ### [Emotional RAG](https://github.com/ZERO-70/Emotional-RAG-2.0) `In Progress`
 Emotionally adaptive conversational AI — adapts responses to character presets and detected emotional tone, with persistent persona across sessions.
 
@@ -80,12 +85,3 @@ Mobile game using YOLOv8n (ONNX) for real-time computer vision.
 Certifications: Fundamentals of AI Agents (RAG + LangChain, IBM) · Supervised ML (DeepLearning.AI) · Transformer Models with PyTorch (DataCamp) · [full list on LinkedIn](https://linkedin.com/in/mhammadzair)
 
 </details>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZERO-70&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-70&layout=compact&hide_border=true)
-
-</div>
