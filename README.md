@@ -1,8 +1,8 @@
 <div align="center">
 
-# Muhammad Zair
+# Hi, I'm Muhammad Zair 👋
 
-**AI/ML · AI Systems · Backend Development**
+**Building AI agents, RAG pipelines & backend systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhammadzair-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mhammadzair)
 [![Email](https://img.shields.io/badge/Email-mhammadzair@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mhammadzair@gmail.com)
@@ -10,94 +10,82 @@
 
 </div>
 
----
+CS student at **Information Technology University (ITU), Lahore**, focused on applying AI/ML to real backend systems — from edge inference to LLM agents. Comfortable taking a project from local prototype to cloud deployment.
 
-Computer Science student at **Information Technology University (ITU)**, Lahore. I build AI agents, RAG pipelines, and backend systems, with a focus on applying automation to real-world business problems. Experienced with Python, Java, and C++, and comfortable taking projects from local development to cloud deployment.
-
----
-
-## Experience
-
-**Backend Developer (Project-Based)** — *PetsHero, Remote* `Apr 2026 – Present`
-- Developing and maintaining backend services with **Spring Boot**: REST API design, authentication, and business workflows.
-- Managing database integration, deployment, and production infrastructure.
-
-**Software Intern** — *AIBee.pk, Lahore* `Mar 2025 – Aug 2025`
-- Data annotation, augmentation, and **PyTorch** model training for custom object detection.
-- Integrated and ran **ONNX** models on edge devices for resource-constrained environments.
-
-**Research Intern** — *CAAISC, Lahore* `Jun 2025 – Aug 2025`
-- Studied LLM architecture, prompt engineering, and hallucination mitigation in generative models.
-- Hands-on experience with **RAG** pipelines and AI evaluation techniques.
-- [Certificate](https://drive.google.com/file/d/1dNOiLKWAZU7tCL4prl2RNJtdxemSK132/view?usp=sharing)
-
-**Teaching Assistant — Software Engineering** — *ITU, Lahore* `Sem 5, 2025 – Sem 6, 2026`
-- Delivered OOP, design patterns, and SDLC concepts; ran lab sessions, graded assignments, and supported project debugging.
+🔭 Currently: Backend dev at PetsHero · researching agentic RAG systems
+🌱 Learning: production-grade LLM evaluation & fine-tuning
+💬 Ask me about: RAG pipelines, computer vision on edge devices, AI agents
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### [Emotional RAG — Emotionally Adaptive Conversational AI](https://github.com/ZERO-70/Emotional-RAG-2.0) `In Progress`
-An emotionally responsive AI agent using a RAG automation pipeline that adapts responses based on character presets and detected emotional tone.
-- **ChromaDB** for memory retrieval · **SentenceTransformers** for embeddings · **Mancer API** for generation
-- Persistent persona and contextual awareness across sessions
+### [Emotional RAG](https://github.com/ZERO-70/Emotional-RAG-2.0) `In Progress`
+Emotionally adaptive conversational AI — adapts responses to character presets and detected emotional tone, with persistent persona across sessions.
 
-### [StreamGuard — AI-Powered Video Streaming with Content Moderation](https://github.com/ZERO-70/StreamGuard)
-Real-time local video streaming with an integrated AI moderation pipeline.
-- NSFW detection with automatic frame blurring (Hugging Face Transformers)
-- Weapon detection via computer vision · live audio transcription with profanity filtering (**OpenAI Whisper**)
-- Modular, configurable system supporting CLI, JSON config, and interactive setup
+`ChromaDB` `SentenceTransformers` `Mancer API` `RAG`
 
-### [Musical Chairs — AI-Powered Mobile Game](https://github.com/ZERO-70/Musical_chairs) `AIBee.pk · Jun 2025`
-Developed using **YOLOv8n (ONNX)** for advanced computer vision within organisational workflows at AIBee.pk.
+### [StreamGuard](https://github.com/ZERO-70/StreamGuard)
+Real-time video streaming with an AI moderation pipeline: NSFW/weapon detection with auto-blurring, plus live transcription and profanity filtering.
 
-### [Sentiment Analysis Model — Transformer Architecture](https://github.com/ZERO-70/Sentimental-Analysis-Model) `May 2025`
-NLP model built with **PyTorch + BERT** for 5-star sentiment classification.
-- Fine-tuned on the Yelp Full Review dataset (650k training examples)
-- Stack: Python · PyTorch · BERT · NumPy · Pandas
+`Hugging Face` `Whisper` `Computer Vision` `Real-time Systems`
 
-### Instagram Person Generator — AI-Powered Face Transformation System *(Repository available upon request)*
-FastAPI-based AI automation system: scrapes Instagram profiles → detects faces → generates AI-transformed outputs via **WaveSpeed AI**.
-- Image-to-image transformation · **LoRA**-based personalised model training · **AWS S3** integration
-- Async request handling and background scheduling across multiple external services
+### [Sentiment Analysis Model](https://github.com/ZERO-70/Sentimental-Analysis-Model)
+BERT-based 5-star sentiment classifier, fine-tuned on 650k Yelp reviews.
 
----
+`PyTorch` `BERT` `NLP`
 
-## Skills
+### [Musical Chairs](https://github.com/ZERO-70/Musical_chairs) `@ AIBee.pk`
+Mobile game using YOLOv8n (ONNX) for real-time computer vision.
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python · JavaScript · Java · C++ |
-| **Frameworks & Libraries** | Spring Boot · FastAPI · PyTorch · scikit-learn · Hugging Face |
-| **AI / ML** | AI Automation · AI Agents · Prompt Engineering · RAG · ML · Deep Learning · NLP · LLM Fine-tuning · Agentic Systems · Edge AI (ONNX) |
-| **Databases** | MySQL · Microsoft SQL · MongoDB · Pinecone · ChromaDB · FAISS |
-| **Platforms & Tools** | AWS · Azure · Heroku · Docker · Postman · Git & GitHub |
-| **Other** | REST APIs · API Integration · Process Automation · Vector Databases · React · Node.js · . Express . Socket Programming |
+`YOLOv8` `ONNX` `Computer Vision`
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+**Instagram Person Generator** *(repo available on request)* — FastAPI system that scrapes profiles, detects faces, and generates AI transformations via WaveSpeed AI, with LoRA-based personalized training and AWS S3 storage.
+
+</details>
 
 ---
 
-## Certifications
+## 🛠️ Tech Stack
 
-- **Fundamentals of AI Agents Using RAG and LangChain** — IBM · [Verify](https://www.coursera.org/account/accomplishments/verify/09E1U9DLLKOM)
-- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI · [Verify](https://www.coursera.org/account/accomplishments/verify/D11NR3NK5LND)
-- **Transformer Models with PyTorch** — DataCamp · [Verify](https://www.datacamp.com/completed/statement-of-accomplishment/course/03b827e0096b953497ae39fe1dd9f47bc7fd34f0)
-- **Introduction to Deep Learning with PyTorch** — DataCamp · [Verify](https://www.datacamp.com/completed/statement-of-accomplishment/course/db4c888780647ec24f96ecaa8386a177462d6eb1)
-- **Introduction to TensorFlow in Python** — DataCamp · [Verify](https://www.datacamp.com/completed/statement-of-accomplishment/course/f5f88ab12b5e15e57b839e62fc4308ee42fba92a)
-- **Introduction to Docker** — DataCamp · [Verify](https://www.datacamp.com/completed/statement-of-accomplishment/course/43070ec204932e2bea2736ab6e37e1a17bc92bb3)
-- **AI For Everyone** — DeepLearning.AI · [Verify](https://www.coursera.org/account/accomplishments/verify/5PIJNJ2J0C5K)
+**Languages:** Python · JavaScript · Java · C++
+**AI/ML:** PyTorch · Hugging Face · scikit-learn · RAG · LLM Fine-tuning · Agentic Systems · Edge AI (ONNX)
+**Backend:** FastAPI · Spring Boot · Node.js · REST APIs
+**Data:** MySQL · MongoDB · Pinecone · ChromaDB · FAISS
+**Infra:** AWS · Azure · Docker · Git
 
 ---
 
-## Education
+<details>
+<summary><b>💼 Experience</b></summary>
+<br>
 
-**B.Sc. Computer Science** — Information Technology University (ITU), Lahore `Aug 2023 – Aug 2027`
-CGPA: **3.59 / 4.00**
+- **Backend Developer** · PetsHero *(Apr 2026–Present)* — Spring Boot REST services, auth, deployment
+- **Software Intern** · AIBee.pk *(Mar–Aug 2025)* — PyTorch model training, ONNX models on edge devices
+- **Research Intern** · CAAISC *(Jun–Aug 2025)* — LLM architecture, RAG pipelines, hallucination mitigation
+- **Teaching Assistant, Software Engineering** · ITU *(2025–2026)* — OOP, design patterns, labs
 
-**Intermediate in Computer Science (FSc)** — Punjab Group of Colleges, Gujranwala `Jan 2021 – Apr 2023`
+</details>
+
+<details>
+<summary><b>🎓 Education & Certifications</b></summary>
+<br>
+
+**B.Sc. Computer Science** — ITU, Lahore *(2023–2027)* · CGPA 3.59/4.00
+
+Certifications: Fundamentals of AI Agents (RAG + LangChain, IBM) · Supervised ML (DeepLearning.AI) · Transformer Models with PyTorch (DataCamp) · [full list on LinkedIn](https://linkedin.com/in/mhammadzair)
+
+</details>
 
 ---
 
 <div align="center">
-<sub>AI Automation · Agentic AI Systems · Machine Learning · Backend Development · API Integration · Cloud Computing</sub>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZERO-70&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-70&layout=compact&hide_border=true)
+
 </div>
