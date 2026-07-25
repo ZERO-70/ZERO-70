@@ -82,6 +82,6 @@ Mobile game using YOLOv8n (ONNX) for real-time computer vision.
 
 **B.Sc. Computer Science** — ITU, Lahore *(2023–2027)* · CGPA 3.59/4.00
 
-Certifications: Fundamentals of AI Agents (RAG + LangChain, IBM) · Supervised ML (DeepLearning.AI) · Transformer Models with PyTorch (DataCamp) · [full list on LinkedIn](https://linkedin.com/in/mhammadzair)
+Certifications: Fundamentals of AI Agents (RAG + LangChain, IBM) · ML Specialization (DeepLearning.AI) · Transformer Models with PyTorch (DataCamp) · [full list on LinkedIn](https://linkedin.com/in/mhammadzair)
 
 </details>
