@@ -10,39 +10,38 @@
 
 </div>
 
-CS student at **Information Technology University (ITU), Lahore**, focused on applying AI/ML to real backend systems — from edge inference to LLM agents. Comfortable taking a project from local prototype to cloud deployment.
+CS student at **Information Technology University (ITU), Lahore**, focused on applying AI/ML to real backend systems, from production REST services to LLM agents. Comfortable taking a project from local prototype to cloud deployment.
 
 🔭 Currently: Backend dev at PetsHero · researching agentic RAG systems
 🌱 Learning: production-grade LLM evaluation & fine-tuning
-💬 Ask me about: RAG pipelines, computer vision on edge devices, AI agents
+💬 Ask me about: backend architecture, RAG pipelines, AI agents
 
 ---
 
 ## 🚀 Projects
 
-### [Hybrid Movie Recommendation Engine](https://github.com/ZERO-70/Movie-Recommender) · [Live Demo](https://huggingface.co/spaces/zerOdash/movie-recommender)
-Combines three recommendation strategies in one app — collaborative filtering for known users, a two-tower neural network for cold-start users, and TF-IDF similarity for item-to-item lookups. Trained end-to-end on MovieLens 1M and deployed on HF Spaces.
+### [HealthNet](https://github.com/ZERO-70/HealthNet-Web-Complete) · [Frontend](https://github.com/ZERO-70/Healthnet-frontend) · [Backend](https://github.com/ZERO-70/HealthNet-backend)
+Full-stack healthcare management platform with role-based portals for patients, doctors, staff and admins. Covers appointment scheduling, medical records with audit trails, live patient-doctor chat, and hospital inventory, over a 16-entity relational schema.
+`Spring Boot` `React` `Spring Security` `JWT` `SQL Server`
 
+### [Hybrid Movie Recommendation Engine](https://github.com/ZERO-70/Movie-Recommender) · [Live Demo](https://huggingface.co/spaces/zerOdash/movie-recommender)
+Combines three recommendation strategies in one app: collaborative filtering for known users, a two-tower neural network for cold-start users, and TF-IDF similarity for item-to-item lookups. Trained end-to-end on MovieLens 1M and deployed on HF Spaces.
 `PyTorch` `scikit-learn` `Gradio` `Two-Tower Networks`
 
 ### [Emotional RAG](https://github.com/ZERO-70/Emotional-RAG-2.0) `In Progress`
-Emotionally adaptive conversational AI — adapts responses to character presets and detected emotional tone, with persistent persona across sessions.
-
+Emotionally adaptive conversational AI that adapts responses to character presets and detected emotional tone, with persistent persona across sessions.
 `ChromaDB` `SentenceTransformers` `Mancer API` `RAG`
 
 ### [StreamGuard](https://github.com/ZERO-70/StreamGuard)
 Real-time video streaming with an AI moderation pipeline: NSFW/weapon detection with auto-blurring, plus live transcription and profanity filtering.
-
 `Hugging Face` `Whisper` `Computer Vision` `Real-time Systems`
 
 ### [Sentiment Analysis Model](https://github.com/ZERO-70/Sentimental-Analysis-Model)
 BERT-based 5-star sentiment classifier, fine-tuned on 650k Yelp reviews.
-
 `PyTorch` `BERT` `NLP`
 
 ### [Musical Chairs](https://github.com/ZERO-70/Musical_chairs) `@ AIBee.pk`
 Mobile game using YOLOv8n (ONNX) for real-time computer vision.
-
 `YOLOv8` `ONNX` `Computer Vision`
 
 <details>
@@ -60,7 +59,7 @@ Mobile game using YOLOv8n (ONNX) for real-time computer vision.
 **Languages:** Python · JavaScript · Java · C++
 **AI/ML:** PyTorch · Hugging Face · scikit-learn · RAG · LLM Fine-tuning · Agentic Systems · Edge AI (ONNX)
 **Backend:** FastAPI · Spring Boot · Node.js · REST APIs
-**Data:** MySQL · MongoDB · Pinecone · ChromaDB · FAISS
+**Data:** MySQL · MongoDB · SQL Server · Pinecone · ChromaDB · FAISS
 **Infra:** AWS · Azure · Docker · Git
 
 ---
@@ -80,7 +79,7 @@ Mobile game using YOLOv8n (ONNX) for real-time computer vision.
 <summary><b>🎓 Education & Certifications</b></summary>
 <br>
 
-**B.Sc. Computer Science** — ITU, Lahore *(2023–2027)* · CGPA 3.59/4.00
+**B.Sc. Computer Science** — ITU, Lahore *(2023–2027)* · CGPA 3.54/4.00
 
 Certifications: Fundamentals of AI Agents (RAG + LangChain, IBM) · ML Specialization (DeepLearning.AI) · Transformer Models with PyTorch (DataCamp) · [full list on LinkedIn](https://linkedin.com/in/mhammadzair)
 
